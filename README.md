@@ -7,7 +7,7 @@ Loop trough your AWS S3 buckets to identify the following public ACLs:
 - Public Access: Write Bucket Permissions
 - Public Access: Full Control
 
-Once a bucket has been identifed, a message is post to Slack.
+Once a bucket has been identifed, a message is printed to stdout.
 Here you can read more about this: [List AWS S3 buckets with public ACLs].
 
 [List AWS S3 buckets with public ACLs]: <https://whiletrue.run/2017/07/20/list-aws-s3-buckets-with-public-acls/>
